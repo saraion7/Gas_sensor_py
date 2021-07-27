@@ -10,3 +10,8 @@ Circuit diagram
 Gas sensor circuit with Esp32
 <br>
 <img src="Images/Circuit_SG.jpeg" width="50%" height="50%">
+
+# Graphic
+Gas level graph
+<br>
+<img src="Images/Gráfico%20niveles%20de%20gas%20monitoreados.PNG" width="50%" height="50%">
