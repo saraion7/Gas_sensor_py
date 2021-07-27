@@ -7,4 +7,4 @@ Circuit diagram
 
 # Circuit with Esp32
 Gas sensor circuit with Esp32
-<img src="Images/Circuit_SG.png" width="50%" height="50%">
+<img src="Images/Circuit_SG.jpeg" width="50%" height="50%">
