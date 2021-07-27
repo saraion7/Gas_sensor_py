@@ -3,4 +3,4 @@ Detects methane gas levels in residences using an Esp32 microcontroller programm
 
 # Scheme
 Circuit diagram
-![](Images/Scheme_Gas_Sensor.png 10x20)
+![](Images/Scheme_Gas_Sensor.png 100x20)
